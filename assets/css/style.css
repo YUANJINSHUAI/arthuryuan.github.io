@@ -1194,5 +1194,5 @@ section {
   position: absolute;
   width: 10%;
   height: 15%;
-  /* filter: blur(200px); */
+  filter: blur(200px);
 }
