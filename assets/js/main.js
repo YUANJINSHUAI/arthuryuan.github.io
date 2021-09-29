@@ -96,6 +96,17 @@
     this.classList.toggle('bi-x')
   })
 
+    /**
+   * open music 
+   */
+     on('click', '.music', function(e) {
+       console.log("click music button");
+      // select('body').classList.toggle('mobile-nav-active')
+      // this.classList.toggle('bi-list')
+      // this.classList.toggle('bi-x')
+    })
+
+
   /**
    * Scrool with ofset on links with a class name .scrollto
    */
